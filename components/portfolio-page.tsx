@@ -79,10 +79,7 @@ function Hero() {
             <TypingHeadline />
           </div>
           <p className="mt-5 max-w-2xl text-balance text-lg leading-8 text-muted-foreground">
-            A disciplined 6th semester B.Pharm student at JSS Academy of
-            Technical Education, Noida, building a serious professional path in
-            pharmacology, regulatory affairs, drug safety, and public
-            healthcare.
+            B.Pharm graduate from JSS College of Pharmacy with skilled in, Pharmacovigilance Microsoft Excel (Data Entry, Pivot Tables, Reports), Microsoft Word (Documentation, Formatting), Power BI, SQL .
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link className={buttonVariants()} href={profile.cv} download>
@@ -125,8 +122,7 @@ function Hero() {
           <div className="absolute -bottom-5 left-4 right-4 rounded-lg border border-border/80 bg-background/88 p-4 shadow-premium backdrop-blur-xl">
             <p className="text-sm font-medium">Professional focus</p>
             <p className="mt-1 text-sm text-muted-foreground">
-              Drug safety, regulatory discipline, and patient-centered pharmacy
-              practice.
+             Clinical Data Analyst, PV Data Analyst .
             </p>
           </div>
         </div>
@@ -176,15 +172,10 @@ function About() {
             </CardHeader>
             <CardContent className="space-y-4 leading-7 text-muted-foreground">
               <p>
-                Currently in the 6th semester of Bachelor of Pharmacy, VIPIN is
-                focused on understanding how medicines move from research and
-                formulation to regulation, counseling, safety monitoring, and
-                real patient outcomes.
+                Bachelor of Pharmacy graduate with a strong interest in data analytics, healthcare operations, and regulatory processes. Skilled in data interpretation, documentation, problem-solving, and analytical thinking with a focus on accuracy and efficiency.With Pharmaceutical knowledge and analytical skills in supporting data-driven decision-making and operational excellence
               </p>
               <p>
-                His long-term goal is to become a Drug Inspector and contribute
-                to a healthcare system where quality, compliance, and public
-                trust are treated as daily responsibilities.
+                His long-term goal is to contribute to a healthcare system where quality, compliance, data accuracy, and public trust are treated as daily responsibilities.
               </p>
             </CardContent>
           </Card>
@@ -213,7 +204,7 @@ function Education() {
       <SectionHeading
         eyebrow="Education"
         title="Academic foundation in pharmaceutical sciences."
-        text="A focused undergraduate path aligned with drug safety, quality, regulation, and healthcare communication."
+        text="A focused academic background aligned with drug safety, quality assurance, regulatory processes, healthcare communication, and data-driven decision-making."
       />
       <Card className="mx-auto max-w-4xl hover:shadow-premium">
         <CardHeader className="flex flex-row items-start gap-4">
@@ -230,8 +221,7 @@ function Education() {
           <div className="flex flex-wrap gap-3">
             <Badge>{education.period}</Badge>
             <Badge>Graduating {profile.graduationYear}</Badge>
-            <Badge>6th Semester</Badge>
-          </div>
+            </div>
           <p className="mt-5 leading-7 text-muted-foreground">{education.detail}</p>
         </CardContent>
       </Card>
@@ -458,7 +448,7 @@ function JsonLd() {
       "Regulatory Affairs",
       "Drug Safety",
       "Pharmacovigilance",
-      "Pharmaceutical Industry"
+      "Data Analytics"
     ]
   };
 

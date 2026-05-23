@@ -3,11 +3,10 @@
 import { useEffect, useMemo, useState } from "react";
 
 const phrases = [
-  "Pharmacology learner",
+  "Bridging Pharmacology With Data Science",
   "Drug safety focused",
   "Regulatory affairs curious",
-  "Future Drug Inspector"
-];
+  ];
 
 export function TypingHeadline() {
   const [index, setIndex] = useState(0);

@@ -28,7 +28,7 @@ export const profile = {
   location: "Noida, India",
   linkedIn:
     "https://www.linkedin.com/in/vipin-prajapati-5a11a0275?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-  github: "https://github.com/vipin-prajapati",
+  github: "https://github.com/VipinPrajapati22",
   cv: "/Vipin-CV.pdf",
   portrait: "/assets/vipin-portrait.png",
   graduationYear: "2027"
@@ -160,8 +160,8 @@ export const careerGoals = [
 export const certifications = [
   "Pharmacovigilance Fundamentals",
   "Regulatory Affairs Basics",
-  "Good Manufacturing Practices",
-  "Clinical Research Foundations"
+  "Healthcare Analysis",
+  "Clinical Data Analyst"
 ];
 
 export const education = {
@@ -170,16 +170,16 @@ export const education = {
   degree: "Bachelor of Pharmacy",
   period: "2023 - 2027",
   detail:
-    "Focused on pharmaceutical sciences, pharmacology, chemistry, drug safety, and professional healthcare communication.",
+    "Focused on pharmaceutical sciences, Pharmacovigilance, chemistry, Clinical Data Associate, and Healthcare Analysis.",
   icon: GraduationCap
 };
 
 export const focusAreas = [
-  { icon: Microscope, label: "Pharmacology" },
+  { icon: Microscope, label: "Pharmacovigilance" },
   { icon: ShieldCheck, label: "Regulatory Affairs" },
-  { icon: HeartPulse, label: "Drug Safety" },
+  { icon: HeartPulse, label: "Clinical Data Associate" },
   { icon: BookOpen, label: "Healthcare Analysis" },
-  { icon: Target, label: "Drug Inspector Path" },
+  { icon: Target, label: "Data Analyst" },
   { icon: MapPin, label: "Noida, India" },
   { icon: Phone, label: "+91 8826005789" },
   { icon: Mail, label: "Open to opportunities" }

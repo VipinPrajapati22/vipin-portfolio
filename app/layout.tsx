@@ -15,17 +15,16 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL("https://vipin-portfolio.vercel.app"),
   title: {
-    default: "VIPIN | B.Pharm Student and Future Drug Inspector",
+    default: "VIPIN | B.Pharm Graduate and Data Analyst ",
     template: "%s | VIPIN"
   },
   description:
-    "Premium portfolio for VIPIN, a B.Pharm student at JSS Academy of Technical Education, Noida, focused on pharmacology, regulatory affairs, drug safety, and pharmaceutical industry roles.",
+    "Premium portfolio for VIPIN, a B.Pharm student at JSS Academy of Technical Education, Noida, focused on Pharmacovigilance, regulatory affairs, Clinical Data Associate, and Data analyst roles.",
   keywords: [
     "VIPIN",
     "B.Pharm student",
     "pharmacy portfolio",
     "pharmacovigilance",
-    "drug inspector",
     "regulatory affairs",
     "pharmacology",
     "JSS Academy of Technical Education Noida"
@@ -33,7 +32,7 @@ export const metadata: Metadata = {
   authors: [{ name: profile.name }],
   creator: profile.name,
   openGraph: {
-    title: "VIPIN | B.Pharm Student and Future Drug Inspector",
+    title: "VIPIN | B.Pharm Graduate and Data Analyst",
     description:
       "Recruiter-focused pharmacy portfolio showcasing education, skills, projects, achievements, and career goals.",
     url: "https://vipin-portfolio.vercel.app",
@@ -53,7 +52,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "VIPIN | Pharmacy Portfolio",
     description:
-      "B.Pharm student focused on drug safety, regulatory affairs, and public healthcare.",
+      "B.Pharm Graduate focused on drug safety, regulatory affairs, and public healthcare.",
     images: ["/assets/vipin-portrait.png"]
   },
   alternates: {
