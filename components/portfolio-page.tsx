@@ -70,7 +70,6 @@ function Hero() {
         <div>
           <Badge className="mb-6">
             <Sparkles className="mr-2 h-3.5 w-3.5" />
-            Recruiter-ready pharmacy portfolio
           </Badge>
           <h1 className="max-w-4xl text-balance text-5xl font-semibold leading-tight text-foreground sm:text-6xl lg:text-7xl">
             {profile.name}
