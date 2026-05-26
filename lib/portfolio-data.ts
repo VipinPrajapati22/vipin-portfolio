@@ -181,6 +181,6 @@ export const focusAreas = [
   { icon: BookOpen, label: "Healthcare Analysis" },
   { icon: Target, label: "Data Analyst" },
   { icon: MapPin, label: "Noida, India" },
-  { icon: Phone, label: "+91 8826005789" },
+  { icon: Phone, label: "+91 **********" },
   { icon: Mail, label: "Open to opportunities" }
 ];
