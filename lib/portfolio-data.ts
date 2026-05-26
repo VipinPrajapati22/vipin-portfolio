@@ -24,7 +24,7 @@ export const profile = {
     "B.Pharm | Pharma Enthusiast | Healthcare Professional",
   shortHeadline: "B.Pharm ",
   email: "Vipn22nov@gmail.com",
-  phone: "+91 8826005789",
+  phone: "+91 **********",
   location: "Noida, India",
   linkedIn:
     "https://www.linkedin.com/in/vipin-prajapati-5a11a0275?utm_source=share_via&utm_content=profile&utm_medium=member_android",
